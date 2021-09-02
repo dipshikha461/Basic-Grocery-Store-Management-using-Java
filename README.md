@@ -13,6 +13,7 @@ This project model is a basic Grocery Store Management System. It is implemented
 3. Select and run the GUI accordingly
 
     a. ***Menu List*** is for the admin to add in more items and the cost
+    
     b. ***Customer Login*** is for the customers to add items to their list and obtain the bill with the total cost
     
 ## GUI snippets
